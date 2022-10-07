@@ -1,0 +1,30 @@
+.button{
+  background-color: white;
+  font-size: 1.2rem;
+  border-radius: 12px;
+}
+
+#btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin-top: 10px;
+}
+
+
+#bn {
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+}
+
+body{
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+}
